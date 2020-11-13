@@ -21,7 +21,7 @@ namespace AppMVC.Controllers
         // GET: Produtos
         public async Task<IActionResult> Index()
         {
-            var context = _context.produtos.Include(p => p.categoria);
+            var context = _context.produtos.Include(p => p.Categoria);
             return View(await context.ToListAsync());
         }
 
@@ -34,7 +34,7 @@ namespace AppMVC.Controllers
             }
 
             var produto = await _context.produtos
-                .Include(p => p.categoria)
+                .Include(p => p.Categoria)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (produto == null)
             {
@@ -130,7 +130,7 @@ namespace AppMVC.Controllers
             }
 
             var produto = await _context.produtos
-                .Include(p => p.categoria)
+                .Include(p => p.Categoria)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (produto == null)
             {

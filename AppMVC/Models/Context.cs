@@ -27,5 +27,10 @@ namespace AppMVC.Models
               Max Pool Size=250");
         }
 
+        public virtual void SetModified(object entity)
+        {
+            Entry(entity).State = EntityState.Modified;
+        }
+
     }
 }

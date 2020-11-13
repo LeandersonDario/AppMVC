@@ -8,7 +8,6 @@ D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\bin\Debug\
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\bin\Debug\netcoreapp3.1\AppMVC.pdb
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\bin\Debug\netcoreapp3.1\AppMVC.Views.dll
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\bin\Debug\netcoreapp3.1\AppMVC.Views.pdb
-D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\AppMVC.csprojAssemblyReference.cache
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\AppMVC.AssemblyInfoInputs.cache
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\AppMVC.AssemblyInfo.cs
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\AppMVC.csproj.CoreCompileInputs.cache
@@ -178,3 +177,4 @@ D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
 D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
+D:\Desenvolvimento_Qualidade\DevApp\pos_uniciv\projetos\AppMVC\AppMVC\obj\Debug\netcoreapp3.1\AppMVC.csprojAssemblyReference.cache
